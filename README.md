@@ -1,4 +1,3 @@
 <h1>Extermination</h1>
 
-<h2>Description</h2>
-
+<h3>Description</h3>
