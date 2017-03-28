@@ -7,3 +7,7 @@
  <p>
 
 <h3>Screenshots</h3>
+<img src=" " width="200px">
+
+<h1>Resources</h1>
+<a href="https://www.python.org/downloads/"> Python Download/a
