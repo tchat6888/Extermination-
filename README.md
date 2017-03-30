@@ -7,7 +7,7 @@ Welcome gamers! We at NamesAreHardToMake productions are bringinh you an action-
  <p>
 
 <h3>Screenshots</h3>
-<img src=" " width="200px">
+<img src="https://github.com/tchat6888/Extermination-/blob/master/images/CityBG.gif?raw=true " width="200px">
 
 <h1>Resources</h1>
 
