@@ -3,7 +3,7 @@
 <h3>Description</h3>
 
 <p>
- This is my description
+Welcome gamers! We at NamesAreHardToMake productions are bringinh you an action-packed 8-bit game. The city is infested with zombies and you must be a hero and exterminate this plague. 
  <p>
 
 <h3>Screenshots</h3>
