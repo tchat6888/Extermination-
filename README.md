@@ -10,7 +10,9 @@ Welcome gamers! We at NamesAreHardToMake productions are bringinh you an action-
 <img src=" " width="200px">
 
 <h1>Resources</h1>
+
 <a href="https://www.python.org/downloads/"> Python Download/a
 
 <a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame">Pygame Wheelfile/a
+
 <a href="https://youtu.be/_GikMdhAhv0">Youtube Video/a
